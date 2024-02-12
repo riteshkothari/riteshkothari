@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <VersionPrefix>6.0.3</VersionPrefix>
+    <VersionSuffix></VersionSuffix>
+    <WarningsAsErrors>CS4014</WarningsAsErrors>
+  </PropertyGroup>
+</Project>
