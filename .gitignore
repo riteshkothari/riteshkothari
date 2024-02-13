@@ -1,0 +1,4 @@
+test/Service.Tests/bin/*
+test/Service.Tests/obj/*
+test/Api.Tests/bin/*
+test/Api.Tests/obj/*
